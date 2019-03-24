@@ -4,6 +4,7 @@ Tableau and R
 本篇文章說明 Tableau 與 R的整合應用
 
 包括以下主題:
+
 一.Tableau簡介與基礎操作
 
 二.實作演練(一):建立第一個Tableau案例分析
